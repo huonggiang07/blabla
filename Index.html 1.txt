@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khám Phá Ẩm Thực Việt Nam</title>
+</head>
+<body>
+
+    <header>
+        <h1>Văn Hóa Ẩm Thực Việt Nam</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Nét Đẹp Ẩm Thực Việt</h2>
+            <p>Ẩm thực Việt Nam nổi tiếng thế giới nhờ sự kết hợp hài hòa giữa các hương vị, nguyên liệu tươi ngon và sự tinh tế trong chế biến.</p>
+            <p><img src="https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=500" alt="Món ăn Việt Nam truyền thống" width="300"></p>
+        </section>
+
+        <section>
+            <h2>Top 3 Món Ăn Nổi Tiếng Nhất</h2>
+            <ul>
+                <li>
+                    <strong>1. Phở Bò Hà Nội</strong>
+                    <br>
+                    <img src="https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=500" alt="Tô Phở bò Hà Nội" width="280">
+                    <p><em>Đặc trưng:</em> Nước dùng thanh ngọt ninh từ xương, thơm mùi thảo mộc ăn kèm bánh phở mềm và thịt bò tươi.</p>
+                </li>
+                <li>
+                    <strong>2. Bánh Mì Việt Nam</strong>
+                    <br>
+                    <img src="https://images.unsplash.com/photo-1626804475297-4160820cca34?w=500" alt="Bánh mì Việt Nam kẹp thịt" width="280">
+                    <p><em>Đặc trưng:</em> Vỏ bánh giòn rụm kẹp đượm vị pate, thịt nguội, dưa góp và các loại rau thơm thanh mát.</p>
+                </li>
+                <li>
+                    <strong>3. Bún Chả Hà Nội</strong>
+                    <br>
+                    <img src="https://images.unsplash.com/photo-1559847844-5315695dadae?w=500" alt="Bún chả Hà Nội nướng than" width="280">
+                    <p><em>Đặc trưng:</em> Chả viên và chả miếng nướng than hoa thơm lừng, ăn kèm nước mắm chua ngọt và bún tươi.</p>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Tài Nguyên Tham Khảo</h2>
+            <p>Tìm hiểu thêm về cách xây dựng giao diện web chuẩn tại <a href="https://developer.mozilla.org/en-US/" target="_blank" rel="noopener noreferrer">MDN Web Docs</a>.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 Thực hiện bởi Lê Quốc Trung - Dự án HTML5 Coursera.</p>
+    </footer>
+
+</body>
+</html>
